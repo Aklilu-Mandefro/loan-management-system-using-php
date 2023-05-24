@@ -3,7 +3,7 @@
         <footer class="footer">
           <div class="container-fluid clearfix">
             <span class="float-right">
-                <a href="#">Brack Bank</a> &copy; 2018
+                <a href="#">Brack Bank</a> &copy; 2019
             </span>
           </div>
         </footer>
